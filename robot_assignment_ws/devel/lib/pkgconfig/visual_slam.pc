@@ -1,0 +1,8 @@
+prefix=/home/julian/robot_assignment_ws/devel
+
+Name: visual_slam
+Description: Description of visual_slam
+Version: 0.0.0
+Cflags: -I/home/julian/robot_assignment_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

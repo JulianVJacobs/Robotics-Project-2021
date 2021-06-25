@@ -1,0 +1,8 @@
+prefix=/home/julian/robot_assignment_ws/devel
+
+Name: et_exploration_robot
+Description: Description of et_exploration_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

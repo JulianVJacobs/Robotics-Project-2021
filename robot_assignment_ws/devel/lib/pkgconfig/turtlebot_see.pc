@@ -1,0 +1,8 @@
+prefix=/home/julian/robot_assignment_ws/devel
+
+Name: turtlebot_see
+Description: Description of turtlebot_see
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
